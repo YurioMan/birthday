@@ -1,0 +1,19 @@
+body {
+    background: url(50.jpg) no-repear center top fixed rgb(21, 49, 92);
+    /*-moz-background-size: 100%;*/
+    background-size: 100%;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#block-body{
+    width: 1035px;
+    margin: 5px auto;
+    height: auto;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
